@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9491aa78-260b-400f-a891-334139e3c34c}</ProjectGuid>
+    <ProjectGuid>{c7d7e20c-93cb-40c8-b16e-dd6e441b8cf0}</ProjectGuid>
     <RootNamespace>TyuiuartemihinndSprint0Task4V0Lib</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

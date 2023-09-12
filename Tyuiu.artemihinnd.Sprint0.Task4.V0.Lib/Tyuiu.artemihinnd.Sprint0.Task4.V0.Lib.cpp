@@ -5,16 +5,12 @@
 #include "framework.h"
 #include "../../Tyuiu.Cours.cpp/Tyuiu.Cours.cpp.cpp"
 
-
-// TODO: This is an example of a library 
-class Service :public ISprintTask4V0
+// TODO: This is an example of a library function
+class Service:public ISprint0Task4
 {
 
-	// Inherited via ISprint0Task4V0
-
-
-
-
+	//Inherited via ISprint0Task4
+	virtual int Add(int a, int b, int c)
 
 
 

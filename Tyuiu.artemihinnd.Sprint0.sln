@@ -11,6 +11,14 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.artemihinnd.Sprint0.T
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.artemihinnd.Sprint0.Task5.V0.Test", "Tyuiu.artemihinnd.Sprint0.Task5.V0.Test\Tyuiu.artemihinnd.Sprint0.Task5.V0.Test.vcxproj", "{49212128-71FE-4492-B205-DFD33D8699A1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{2E54F27C-D49C-4EDD-AB7E-AFA91AEE797A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.artemihinnd.Sprint0.Task4.V0", "Tyuiu.artemihinnd.Sprint0.Task4.V0\Tyuiu.artemihinnd.Sprint0.Task4.V0.vcxproj", "{5D6AAB10-07B6-4733-A435-95B8317E524D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.artemihinnd.Sprint0.Task4.V0.Lib", "Tyuiu.artemihinnd.Sprint0.Task4.V0.Lib\Tyuiu.artemihinnd.Sprint0.Task4.V0.Lib.vcxproj", "{C7D7E20C-93CB-40C8-B16E-DD6E441B8CF0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.artemihinnd.Sprint0.Task4.V0.Test", "Tyuiu.artemihinnd.Sprint0.Task4.V0.Test\Tyuiu.artemihinnd.Sprint0.Task4.V0.Test.vcxproj", "{1B1ABCF4-1E64-4C51-B22C-F631093C889A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -43,6 +51,30 @@ Global
 		{49212128-71FE-4492-B205-DFD33D8699A1}.Release|x64.Build.0 = Release|x64
 		{49212128-71FE-4492-B205-DFD33D8699A1}.Release|x86.ActiveCfg = Release|Win32
 		{49212128-71FE-4492-B205-DFD33D8699A1}.Release|x86.Build.0 = Release|Win32
+		{5D6AAB10-07B6-4733-A435-95B8317E524D}.Debug|x64.ActiveCfg = Debug|x64
+		{5D6AAB10-07B6-4733-A435-95B8317E524D}.Debug|x64.Build.0 = Debug|x64
+		{5D6AAB10-07B6-4733-A435-95B8317E524D}.Debug|x86.ActiveCfg = Debug|Win32
+		{5D6AAB10-07B6-4733-A435-95B8317E524D}.Debug|x86.Build.0 = Debug|Win32
+		{5D6AAB10-07B6-4733-A435-95B8317E524D}.Release|x64.ActiveCfg = Release|x64
+		{5D6AAB10-07B6-4733-A435-95B8317E524D}.Release|x64.Build.0 = Release|x64
+		{5D6AAB10-07B6-4733-A435-95B8317E524D}.Release|x86.ActiveCfg = Release|Win32
+		{5D6AAB10-07B6-4733-A435-95B8317E524D}.Release|x86.Build.0 = Release|Win32
+		{C7D7E20C-93CB-40C8-B16E-DD6E441B8CF0}.Debug|x64.ActiveCfg = Debug|x64
+		{C7D7E20C-93CB-40C8-B16E-DD6E441B8CF0}.Debug|x64.Build.0 = Debug|x64
+		{C7D7E20C-93CB-40C8-B16E-DD6E441B8CF0}.Debug|x86.ActiveCfg = Debug|Win32
+		{C7D7E20C-93CB-40C8-B16E-DD6E441B8CF0}.Debug|x86.Build.0 = Debug|Win32
+		{C7D7E20C-93CB-40C8-B16E-DD6E441B8CF0}.Release|x64.ActiveCfg = Release|x64
+		{C7D7E20C-93CB-40C8-B16E-DD6E441B8CF0}.Release|x64.Build.0 = Release|x64
+		{C7D7E20C-93CB-40C8-B16E-DD6E441B8CF0}.Release|x86.ActiveCfg = Release|Win32
+		{C7D7E20C-93CB-40C8-B16E-DD6E441B8CF0}.Release|x86.Build.0 = Release|Win32
+		{1B1ABCF4-1E64-4C51-B22C-F631093C889A}.Debug|x64.ActiveCfg = Debug|x64
+		{1B1ABCF4-1E64-4C51-B22C-F631093C889A}.Debug|x64.Build.0 = Debug|x64
+		{1B1ABCF4-1E64-4C51-B22C-F631093C889A}.Debug|x86.ActiveCfg = Debug|Win32
+		{1B1ABCF4-1E64-4C51-B22C-F631093C889A}.Debug|x86.Build.0 = Debug|Win32
+		{1B1ABCF4-1E64-4C51-B22C-F631093C889A}.Release|x64.ActiveCfg = Release|x64
+		{1B1ABCF4-1E64-4C51-B22C-F631093C889A}.Release|x64.Build.0 = Release|x64
+		{1B1ABCF4-1E64-4C51-B22C-F631093C889A}.Release|x86.ActiveCfg = Release|Win32
+		{1B1ABCF4-1E64-4C51-B22C-F631093C889A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +83,9 @@ Global
 		{444F5202-9CA2-475E-A8C9-C6D51D2B9509} = {E85C50F3-93E6-44A4-908D-F9993C91B96C}
 		{E3F41774-988E-4054-82BD-241A3F035AB6} = {E85C50F3-93E6-44A4-908D-F9993C91B96C}
 		{49212128-71FE-4492-B205-DFD33D8699A1} = {E85C50F3-93E6-44A4-908D-F9993C91B96C}
+		{5D6AAB10-07B6-4733-A435-95B8317E524D} = {2E54F27C-D49C-4EDD-AB7E-AFA91AEE797A}
+		{C7D7E20C-93CB-40C8-B16E-DD6E441B8CF0} = {2E54F27C-D49C-4EDD-AB7E-AFA91AEE797A}
+		{1B1ABCF4-1E64-4C51-B22C-F631093C889A} = {2E54F27C-D49C-4EDD-AB7E-AFA91AEE797A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F8290470-93D6-42A4-96F7-5A47EFE4CCBE}

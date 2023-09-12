@@ -8,19 +8,21 @@ using namespace std;
 int main()
 {
 	setlocale(LC_ALL, "Russian");
+	//Заданные длины катетов и гипотенузы
+	double first_cathetus = 4.0;
+	double second_cathetus = 5.0;
+	double hypotenuse = 6.0;
 
-		float a, b, c;
+	// Вычисление площади треугольника (по формцле Пифагора)
+	double area = 0.5 * first_cathetus * second_cathetus;
 
-		cout << "Введите катеты" << "\n";
-		cin >> a;
-		cin >> b;
+	//Вычисление периметра треугольника
+	double perimeter = first_cathetus + second_cathetus + hypotenuse;
 
-		c = sqrt(pow(a, 2) + pow(b, 2));
-		cout << "Гипатенуза" << c << endl;
+    //Вывод результатов
+	cout << "Сумма периметра и площади прямоугольного треугольника:" << endl;
+	cout << "Площадь:" << area << "см^2" << endl;
+	cout << "Периметр:" << perimeter << "см" << endl;
 
-		cout << "Периметр:" << a + b + c << endl;
-		cout << "Площадь:" << (a * b) / 2 << endl;
-
-		system("pause");
-		return 0;
+	return 0;
 }

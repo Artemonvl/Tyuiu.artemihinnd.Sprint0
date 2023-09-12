@@ -1,6 +1,6 @@
 #include "pch.h"
 #include "CppUnitTest.h"
-#include "../.."
+
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
 namespace TyuiuartemihinndSprint0Task4V0Test
