@@ -3,8 +3,17 @@
 
 #include "pch.h"
 #include "framework.h"
+#include "../../Tyuiu.Cours.cpp/Tyuiu.Cours.cpp.cpp"
 
 // TODO: This is an example of a library function
-void fnTyuiuartemihinndSprint0Task3V0Lib()
+class Service1 :public ISprint0Task3
 {
-}
+
+	// Inherited via ISprint0Task3V0
+	virtual int Add(int a, int b, int c) override
+	{
+		return a + b + c; //решение
+
+	};
+
+};

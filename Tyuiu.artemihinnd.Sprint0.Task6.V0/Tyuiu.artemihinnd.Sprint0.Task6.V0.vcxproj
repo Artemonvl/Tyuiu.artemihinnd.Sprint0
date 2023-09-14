@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{a4497840-5fa5-4fe3-a4ad-fd75843cb45b}</ProjectGuid>
-    <RootNamespace>TyuiuartemihinndSprint0Task3V0</RootNamespace>
+    <ProjectGuid>{fd28d5f6-0b72-403f-8edd-0cddc3cc7d84}</ProjectGuid>
+    <RootNamespace>TyuiuartemihinndSprint0Task6V0</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Tyuiu.artemihinnd.Sprint0.Task3.V0.cpp" />
+    <ClCompile Include="Tyuiu.artemihinnd.Sprint0.Task6.V0.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

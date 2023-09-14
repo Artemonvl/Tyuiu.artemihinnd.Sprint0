@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{FF66DD34-6345-4C4A-A33A-B57048F650F4}</ProjectGuid>
+    <ProjectGuid>{9D86D74B-CCCB-4E6D-B911-86DB59E0C8DD}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>TyuiuartemihinndSprint0Task3V0Test</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
