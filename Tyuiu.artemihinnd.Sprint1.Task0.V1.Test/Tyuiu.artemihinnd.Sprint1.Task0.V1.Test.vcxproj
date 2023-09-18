@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{9D86D74B-CCCB-4E6D-B911-86DB59E0C8DD}</ProjectGuid>
+    <ProjectGuid>{A43A844A-C97C-42AC-B07E-A4C53C553415}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>TyuiuartemihinndSprint0Task3V0Test</RootNamespace>
+    <RootNamespace>TyuiuartemihinndSprint1Task0V1Test</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectSubType>NativeUnitTestProject</ProjectSubType>
   </PropertyGroup>
@@ -162,7 +162,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Tyuiu.artemihinnd.Sprint0.Task3.V0.Test.cpp" />
+    <ClCompile Include="Tyuiu.artemihinnd.Sprint1.Task0.V1.Test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
