@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{36ADF2FC-F033-4A35-85BC-A9E913C81565}</ProjectGuid>
+    <ProjectGuid>{4581293A-2486-41CA-BF5F-DD8D977F4712}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tyuiu.artemihinnd.Sprint0.Task0</RootNamespace>
-    <AssemblyName>Tyuiu.artemihinnd.Sprint0.Task0</AssemblyName>
+    <RootNamespace>Tyuiu.artemihinnd.Sprint0.Task1.V0</RootNamespace>
+    <AssemblyName>Tyuiu.artemihinnd.Sprint0.Task1.V0</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
